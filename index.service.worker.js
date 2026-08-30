@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1788081564|30908806';
+const CACHE_VERSION = '1788115180|1769120545';
 /** @type {string} */
 const CACHE_PREFIX = 'ScrabbleFa-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
